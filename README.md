@@ -18,8 +18,7 @@ This project explores the **design, implementation, and efficiency** of **RF Ant
 ---
 
 ## 🏗️ Methodology  
-
-### 📡 **RF Antenna**  
+ 
 1️⃣ **Captures electromagnetic waves** and converts them into electrical signals.  
 2️⃣ Uses a **transducer** to transform electromagnetic energy into **usable electricity**.  
 3️⃣ Processed energy can be used to power small **electronic devices** such as **radio receivers**.  
