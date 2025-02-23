@@ -27,8 +27,7 @@ This project explores the **design, implementation, and efficiency** of **RF Ant
 ---
 
 ## 📟 Block Diagram & Figures  
-
-📷 **System Architecture**  
+ 
 
 ![RF Antenna Diagram](https://github.com/sandesh-ar/Nano-Antenna-RF-Antenna-and-Supercapacitors/blob/main/image.png?raw=true)  
 
@@ -101,14 +100,4 @@ This project explores the **design, implementation, and efficiency** of **RF Ant
 ## 🏆 Acknowledgments  
 🎖️ **Presented at the Mini-Project Exhibition - DSCE, Bengaluru**  
 🎖️ **Part of the 0.7 Technical Club Initiative**  
-
----
-
-## 📬 Contact  
-💡 **Developed by:** [Sandesh A R](https://www.linkedin.com/in/sandesh-ar-173b47329)  
-📩 **Email:** suryaiamsans123@gmail.com  
-🌐 **GitHub:** [sandesh-ar](https://github.com/sandesh-ar)  
-
----
-
-⭐ **If you found this project interesting, don’t forget to give it a star!** ⭐  
+ 
