@@ -26,7 +26,7 @@ This project report focuses on the development and implementation of RF Antennas
      3.The captured energy can then be processed by an electronic device, such as a radio receiver.
 
 
-# diagram :
+# Block Diagram & figure 
  ![image](https://github.com/sandesh-ar/Nano-Antenna-RF-Antenna-and-Supercapacitors/blob/main/image.png?raw=true)
 
 # Tools & Components Used
