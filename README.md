@@ -5,13 +5,13 @@ This project report focuses on the development and implementation of RF Antennas
 
 # Objectives
 1.	RF Antenna:	   
-                    1.Harvesting voltage from electromagnetic (RF) signals.
+        1.Harvesting voltage from electromagnetic (RF) signals.
                     
      2.Understanding the conversion of electromagnetic energy into electrical energy.
 
 
 2.	Supercapacitors:  
-                       1.Storing charge through chemical reactions in an electrolyte.
+      1.Storing charge through chemical reactions in an electrolyte.
 
     2.Efficient energy discharge when required
 
@@ -20,9 +20,9 @@ This project report focuses on the development and implementation of RF Antennas
 1.	RF Antenna:
         1.The RF antenna captures electromagnetic waves and converts the carried energy into an electrical signal.
 
- 2.This process involves a transducer, which converts one form of energy (electromagnetic) into another (electrical).
+     2.This process involves a transducer, which converts one form of energy (electromagnetic) into another (electrical).
 
- 3.The captured energy can then be processed by an electronic device, such as a radio receiver.
+     3.The captured energy can then be processed by an electronic device, such as a radio receiver.
 
 
 # diagram :
