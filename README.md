@@ -10,3 +10,14 @@ o	Understanding the conversion of electromagnetic energy into electrical energy.
 2.	Supercapacitors:
 o	Storing charge through chemical reactions in an electrolyte.
 o	Efficient energy discharge when required
+
+
+# Methodology
+1.	RF Antenna:
+o	The RF antenna captures electromagnetic waves and converts the carried energy into an electrical signal.
+o	This process involves a transducer, which converts one form of energy (electromagnetic) into another (electrical).
+o	The captured energy can then be processed by an electronic device, such as a radio receiver.
+
+
+# diagram :
+![image](C:\Users\DELL\Pictures\Screenshots\image.png)
