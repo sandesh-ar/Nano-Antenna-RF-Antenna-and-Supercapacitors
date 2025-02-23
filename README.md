@@ -19,7 +19,7 @@ This project report focuses on the development and implementation of RF Antennas
 # Methodology
 1.	RF Antenna:
         
-        1.The RF antenna captures electromagnetic waves and converts the carried energy into an electrical signal.
+     1.The RF antenna captures electromagnetic waves and converts the carried energy into an electrical signal.
 
      2.This process involves a transducer, which converts one form of energy (electromagnetic) into another (electrical).
 
@@ -27,7 +27,7 @@ This project report focuses on the development and implementation of RF Antennas
 
 
 # diagram :
-     ![image](https://github.com/sandesh-ar/Nano-Antenna-RF-Antenna-and-Supercapacitors/blob/main/image.png?raw=true)
+ ![image](https://github.com/sandesh-ar/Nano-Antenna-RF-Antenna-and-Supercapacitors/blob/main/image.png?raw=true)
 
 # Tools & Components Used
 1.	RF Antenna:
