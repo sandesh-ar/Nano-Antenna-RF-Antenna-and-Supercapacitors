@@ -18,4 +18,4 @@ This project report focuses on the development and implementation of RF Antennas
 
 
 # diagram :
-![image](C:\Users\DELL\Pictures\Screenshots\image.png)
+![image](https://github.com/sandesh-ar/Nano-Antenna-RF-Antenna-and-Supercapacitors/blob/main/image.png?raw=true)
