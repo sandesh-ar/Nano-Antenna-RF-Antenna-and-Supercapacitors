@@ -27,7 +27,7 @@ This project report focuses on the development and implementation of RF Antennas
 
 
 # diagram :
-![image](https://github.com/sandesh-ar/Nano-Antenna-RF-Antenna-and-Supercapacitors/blob/main/image.png?raw=true)
+     ![image](https://github.com/sandesh-ar/Nano-Antenna-RF-Antenna-and-Supercapacitors/blob/main/image.png?raw=true)
 
 # Tools & Components Used
 1.	RF Antenna:
@@ -51,12 +51,18 @@ This project report focuses on the development and implementation of RF Antennas
      2.	Fast charging and slow discharging.
      3. Long cycle life and low maintenance.
      4. High efficiency with a wide temperature range.
-Results
+
+
+
+# Results
  1.	RF Antenna:
     	Successfully harvested energy from RF signals, validating the concept of energy conversion from electromagnetic waves.
 2.	Supercapacitor:
     	Demonstrated the ability to store and release energy effectively, showing potential for practical applications in energy storage.
-Conclusion
+
+
+
+# Conclusion
 1.	RF Antenna:
       1. RF energy harvesting plays a crucial role in wireless communication and remote-controlled devices.
       2. It has significant potential in powering microbots and nanobots, which require minimal power in the range of microwatts to milliwatts.
