@@ -1,4 +1,4 @@
-# ⚡ Nano-Antenna RF Antenna and Supercapacitors  
+# ⚡ Nano-RF Antenna and Supercapacitors  
 
 ## 🚀 Overview  
 This project explores the **design, implementation, and efficiency** of **RF Antennas** for **energy harvesting** from electromagnetic radiation and **Supercapacitors** for **efficient energy storage**. Conducted under the **Mini-Project Exhibition** at **Dayananda Sagar College of Engineering, Bengaluru**, this study was presented as part of the **0.7 Technical Club** initiative.  
